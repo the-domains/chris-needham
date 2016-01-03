@@ -1,0 +1,28 @@
+name: Chris Needham
+favicon: null
+layout_spectrum: 0.26624240004457533
+typography_spectrum: 0.02341401670128107
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7900377719197422
+  lightness: 0.11148745263926685
+  saturation: 0.3073514096904546
+  rhythmicContrast: 0.10113022057339549
+purpose: []
