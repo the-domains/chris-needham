@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Chris Needham]]></title>
         <description><![CDATA[Chris Needham]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chris-needham/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 21:01:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 21:05:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chris-needham/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e5bcf00-8d33-4c44-9b6e-e3528a05f057.jpg">]]></description>
+            <link>https://thegrid.ai/chris-needham/974de40d-6c39-4e7e-aa9d-b1c42c2e3139/index.html</link>
+            <guid isPermaLink="false">974de40d-6c39-4e7e-aa9d-b1c42c2e3139</guid>
+            <pubDate>Sun, 03 Jan 2016 21:05:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b11d46d-0192-40ac-90dc-85745adbd47d.png">]]></description>
-            <link>undefined3d9d5a72-4eaf-4889-9f5e-cf62e0e592e1/index.html</link>
+            <link>https://thegrid.ai/chris-needham/3d9d5a72-4eaf-4889-9f5e-cf62e0e592e1/index.html</link>
             <guid isPermaLink="false">3d9d5a72-4eaf-4889-9f5e-cf62e0e592e1</guid>
             <pubDate>Sun, 03 Jan 2016 21:01:14 GMT</pubDate>
         </item>
